@@ -23,7 +23,7 @@ figcaption{
 
 img{
     border-radius: 7px;
-    filter: drop-shadow(5px 5px 5px rgb(0,0,0,0.5));
+    
 }
 figure{
    color: rgb(152, 152, 152);
@@ -54,4 +54,7 @@ h2{
     
     border-bottom: 1px solid aqua;
     padding-bottom: 20px;
+}
+#figura{
+    filter: drop-shadow(5px 5px 5px rgb(0,0,0,0.5));
 }
