@@ -1,0 +1,57 @@
+header{
+    text-align: center;
+}
+#contenitore{ 
+    width: 45%;
+}
+div{
+    margin: 0 auto;
+}
+#sottologo{
+    background-color: rgba(255, 196, 0, 0.1);
+    color:rgb(16, 119, 119);
+    border-top: 2px solid orange;
+    padding: 2px;
+}
+#testoprincipale{
+   
+    margin-top: 70px;
+}
+figcaption{
+    padding-top: 10px;
+}
+
+img{
+    border-radius: 7px;
+    filter: drop-shadow(5px 5px 5px rgb(0,0,0,0.5));
+}
+figure{
+   color: rgb(152, 152, 152);
+   text-align: center;
+}
+#featured{
+    color: red;
+
+}
+#sottoimmagine{
+    border-left: 2px solid orange;
+    padding-left: 10px;
+}
+#ingredienti{
+    padding-top: 40px;
+}
+li{
+    padding: 10px;
+}
+#sottodescrizione{
+    margin-left: 50px;
+}
+ol{
+    
+    height: 50px;
+}
+h2{
+    
+    border-bottom: 1px solid aqua;
+    padding-bottom: 20px;
+}
